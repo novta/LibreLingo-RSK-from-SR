@@ -1,0 +1,52 @@
+# This file contains generic meta-data about the course
+
+Course:
+  Language:
+    Name: Rusyn
+    IETF BCP 47: rsk
+  For speakers of:
+    Name: Serbian
+    IETF BCP 47: sr
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+  Repository: https://github.com/novta/LibreLingo-RSK-from-SR
+  Special characters:
+    - "г"
+    - "Г"
+    - "ґ"
+    - "Ґ"
+    - "щ"
+    - "Щ"
+    - "я"
+    - "Я"
+    - "є"
+    - "Є"
+    - "ю"
+    - "Ю"
+    - "ї"
+    - "Ї"
+    - "ь"
+    - "Ь"
+    # - "љ"
+    # - "Љ"
+    # - "њ"
+    # - "Њ"
+    # - "ђ"
+    # - "Ђ"
+    # - "ћ"
+    # - "Ћ"
+    # - "џ"
+    # - "Џ"
+    
+Modules:
+  - basics/
+
+Settings:
+  Audio:
+    Enabled: True
+    TTS:
+      - Provider: Polly
+        Voice: Lucia
+        Engine: standard

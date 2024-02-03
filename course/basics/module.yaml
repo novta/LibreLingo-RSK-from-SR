@@ -1,0 +1,7 @@
+Module:
+  Name: "Основе"
+
+Skills:
+  - animals.yaml
+  - food.yaml
+  - clothes.yaml

@@ -1,0 +1,140 @@
+Skill:
+  Name: Животиње
+  Id: 2
+  Thumbnails:
+    - dog1
+    - lion3
+    - cat3
+  
+New words:
+  - Word: пес
+    Translation: пас
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: мачка
+    Translation: мачка
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: медведз
+    Translation: медвед
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: лєв
+    Translation: лав
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: качка
+    Translation: патка
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: конь
+    Translation: коњ
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+  - Word: тота мачка
+    Translation: та мачка
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: єден медведз
+    Translation: један медвед
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: єден лєв
+    Translation: један лав
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: тота качка
+    Translation: ова патка
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: єден конь
+    Translation: један коњ
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+  - Word: тот пес
+    Translation: тај пас
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+Phrases:
+  - Phrase: То мой конь
+    Translation: Ово је мој коњ
+
+  - Phrase: Maкс мой пес
+    Translation: Maкс је мој пас
+
+  - Phrase: Єдна качка и єден конь
+    Translation: Једна патка и један коњ
+
+Mini-dictionary:
+  Rusyn:
+    - єдeн/єдна/єдно: један/једна/једно  (masc.)
+    - є: је
+    - Maкс: Maкс (name)
+    - и: и
+    - добри: добар
+    - профит: профит
+    - тото: ово
+    - мой: мој
+    - то: ово
+    - єдна: једна
+    - тота: ова
+    - пес: пас
+
+  Serbian:
+    - тај: тот
+    - та: тота
+    - то: тото
+    - то је: то є
+    - један: єден
+    - једна: єдна
+    - једно: єдно
+    - Maкс: Maкс (name)
+    - је: є
+    - и: и
+    - уживај: уживай
+    - твој: твой
+    - твоја: твоя
+    - твојо: твойо
+    - јело: єдло
+    - хлеб: хлєб
+    - ово: тото
+    - мој: мой
+    - ово: то
+    - ова: тота
+    - пас: пес

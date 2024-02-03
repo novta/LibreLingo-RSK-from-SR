@@ -1,0 +1,154 @@
+Skill:
+  Name: Храна
+  Id: 1
+  Thumbnails:
+    - bread1
+    - milk2
+    - pasta3
+  
+New words:
+  - Word: хлєб
+    Translation: хлеб
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: млєко
+    Translation: млеко
+    Images:
+      - milk1
+      - milk2
+      - milk3
+
+  - Word: резанки
+    Translation: тестенина
+    Also accepted:
+      - резанци
+    Images:
+      - pasta1
+      - pasta2
+      - pasta3
+
+  - Word: пара
+    Translation: пар
+    Images:
+      - couple1
+      - couple2
+      - couple3
+
+  - Word: тот хлєб
+    Translation: тај хлеб
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: тото млєко
+    Translation: то млеко
+    Images:
+      - milk1
+      - milk2
+      - milk3
+
+  - Word: тоти резанки
+    Translation: та тестенина
+    Images:
+      - pasta1
+      - pasta2
+      - pasta3
+
+  - Word: тота пара
+    Translation: тај пар
+    Images:
+      - couple1
+      - couple2
+      - couple3
+
+Phrases:
+  - Phrase: Смачного
+    Translation: Пријатно
+
+  - Phrase: Модлїм
+    Translation: Молим
+
+  - Phrase: Хлєб, модлїм
+    Translation: Хлеб, молим
+
+  - Phrase: Воду, модлїм
+    Translation: Воде, молим
+
+  - Phrase: Цеца пиє води
+    Translation: Цеца пије воду
+
+  - Phrase: Гевтот пар пиє пиво
+    Translation: Онај пар пије пиво
+
+  - Phrase: Йован є хлєб
+    Translation: Јован једе хлеб
+
+  - Phrase: Я єм резанки
+    Translation: Ја једем резанце
+
+
+Mini-dictionary:
+  Serbian:
+    - воде: воду
+    - воду: воду
+    - молим: модлїм
+    - вода: вода
+    - Цеца: Цеца (name)
+    - пића:
+      - пица
+      - напой
+    - пиво: пиво
+    - Јован: Йован (name)
+    - једу: єдза
+    - ја: я
+    - једем: єм
+    - волим: любим
+    - то:
+      - гевто
+    - како:
+      - як
+    - много:
+      - вельо
+      - барз
+    - онај: гевтот
+    - пар: пар
+    - једе: є
+    - резанце: резанки
+    - колико: як
+    
+  Rusyn:
+    - модлїм: молим
+    - воду: 
+      - воде
+      - воду
+    - води: воду
+    - за: за
+    - услуга: услуга
+    - вода: вода
+    - Цеца: Цеца (name)
+    - пице: пића
+    - пиво: пиво
+    - тот: тај
+    - Йован: Јован (name)
+    - є: једе
+    - я:
+        - ја
+        - мене
+    - любим: волим
+    - мнє:
+      - ја
+      - мене
+    - смак: укус
+    - як вельо: колико пуно
+    - цена: цена
+    - кошта: кошта
+    - гевтот: онај
+    - пар: пар
+    - є: једе
+    - єм: једем
+    - резанки: резанце
+    - як: колико

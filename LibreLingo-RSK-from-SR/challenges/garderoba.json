@@ -1,0 +1,1204 @@
+{
+  "id": "c097516da9d5",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "Любим то!",
+      "meaningInSourceLanguage": "Волим то!",
+      "id": "3b12088ea248",
+      "priority": 0,
+      "group": "97a5eebbf21a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Любим то!",
+      "meaning": "Волим то!",
+      "audio": "50179246d73bfbfb87edc970d852465005e8d2432e98f088ee5e6100c89b187a",
+      "id": "55eb6380b777",
+      "priority": 1,
+      "group": "97a5eebbf21a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Волим",
+          "definition": "любим"
+        },
+        {
+          "word": "то!",
+          "definition": "гевто\nтото"
+        }
+      ],
+      "chips": [
+        "Любим",
+        "то",
+        "То",
+        "и"
+      ],
+      "solutions": [
+        [
+          "Любим",
+          "то"
+        ]
+      ],
+      "formattedSolution": "Любим то!",
+      "id": "bc149502ea67",
+      "priority": 2,
+      "group": "97a5eebbf21a"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Любим",
+          "definition": "волим"
+        },
+        {
+          "word": "то!",
+          "definition": "ово"
+        }
+      ],
+      "chips": [
+        "Волим",
+        "то",
+        "Молим",
+        "ти"
+      ],
+      "solutions": [
+        [
+          "Волим",
+          "то"
+        ]
+      ],
+      "formattedSolution": "Волим то!",
+      "id": "18508c5b236b",
+      "priority": 2,
+      "group": "97a5eebbf21a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Кельо то?",
+      "meaningInSourceLanguage": "Колико је то?",
+      "id": "0b8a0c358fb6",
+      "priority": 0,
+      "group": "c89675acb733"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Кельо то?",
+      "meaning": "Колико је то?",
+      "audio": "302ee4a68d9d934918fdc11352d21b18019934e524f60167040db148198ec690",
+      "id": "232181baf424",
+      "priority": 1,
+      "group": "c89675acb733"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Колико",
+          "definition": "кельо\nяк"
+        },
+        {
+          "word": "је",
+          "definition": "є"
+        },
+        {
+          "word": "то?",
+          "definition": "гевто\nтото"
+        }
+      ],
+      "chips": [
+        "Кельо",
+        "то",
+        "То",
+        "мой"
+      ],
+      "solutions": [
+        [
+          "Кельо",
+          "то"
+        ]
+      ],
+      "formattedSolution": "Кельо то?",
+      "id": "963fdcfec805",
+      "priority": 2,
+      "group": "c89675acb733"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Кельо",
+          "definition": "колико"
+        },
+        {
+          "word": "то?",
+          "definition": "ово"
+        }
+      ],
+      "chips": [
+        "Колико",
+        "је",
+        "то",
+        "ти",
+        "и"
+      ],
+      "solutions": [
+        [
+          "Колико",
+          "је",
+          "то"
+        ]
+      ],
+      "formattedSolution": "Колико је то?",
+      "id": "43e76b2dc444",
+      "priority": 2,
+      "group": "c89675acb733"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Дзекуєм вам",
+      "meaningInSourceLanguage": "Хвала вам",
+      "id": "20f83263d716",
+      "priority": 0,
+      "group": "0db908f272e6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Дзекуєм вам",
+      "meaning": "Хвала вам",
+      "audio": "fb0bedad1112e1074341ccdc19fe0dbeaf8c9ff6d666637e3c34257e309d263c",
+      "id": "212ce851628a",
+      "priority": 1,
+      "group": "0db908f272e6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Хвала",
+          "definition": "дзекуєм"
+        },
+        {
+          "word": "вам",
+          "definition": "вам"
+        }
+      ],
+      "chips": [
+        "Дзекуєм",
+        "вам",
+        "єм",
+        "пес"
+      ],
+      "solutions": [
+        [
+          "Дзекуєм",
+          "вам"
+        ]
+      ],
+      "formattedSolution": "Дзекуєм вам",
+      "id": "2024dbab449e",
+      "priority": 2,
+      "group": "0db908f272e6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Дзекуєм",
+          "definition": "хвала"
+        },
+        {
+          "word": "вам",
+          "definition": "вам"
+        }
+      ],
+      "chips": [
+        "Хвала",
+        "вам",
+        "мала",
+        "пас"
+      ],
+      "solutions": [
+        [
+          "Хвала",
+          "вам"
+        ]
+      ],
+      "formattedSolution": "Хвала вам",
+      "id": "308866946caf",
+      "priority": 2,
+      "group": "0db908f272e6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Сукня прекрасна",
+      "meaningInSourceLanguage": "Хаљина је прелепа",
+      "id": "3b0883b8c057",
+      "priority": 0,
+      "group": "a14a6e4a8c20"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Сукня прекрасна",
+      "meaning": "Хаљина је прелепа",
+      "audio": "f22b24586f8013cffa03a39abe5f3fb0a4ddcc3c3f8bef30e63095b558ee33f6",
+      "id": "b683c861249b",
+      "priority": 1,
+      "group": "a14a6e4a8c20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Хаљина",
+          "definition": "сукньа\nсукня"
+        },
+        {
+          "word": "је",
+          "definition": "є"
+        },
+        {
+          "word": "прелепа",
+          "definition": "прекрасна"
+        }
+      ],
+      "chips": [
+        "Сукня",
+        "прекрасна",
+        "конь",
+        "Maкс"
+      ],
+      "solutions": [
+        [
+          "Сукня",
+          "прекрасна"
+        ]
+      ],
+      "formattedSolution": "Сукня прекрасна",
+      "id": "a23bce9d5e4c",
+      "priority": 2,
+      "group": "a14a6e4a8c20"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Сукня",
+          "definition": "хаљина"
+        },
+        {
+          "word": "прекрасна",
+          "definition": "прелепа"
+        }
+      ],
+      "chips": [
+        "Хаљина",
+        "је",
+        "прелепа",
+        "пије",
+        "Једна"
+      ],
+      "solutions": [
+        [
+          "Хаљина",
+          "је",
+          "прелепа"
+        ]
+      ],
+      "formattedSolution": "Хаљина је прелепа",
+      "id": "bfdcb587a839",
+      "priority": 2,
+      "group": "a14a6e4a8c20"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Ципели ци вельки",
+      "meaningInSourceLanguage": "Ципеле су ти велике",
+      "id": "add782889506",
+      "priority": 0,
+      "group": "8b2725f347a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Ципели ци вельки",
+      "meaning": "Ципеле су ти велике",
+      "audio": "479a4f5b102e47a9cb0686024e59fc45be64b1b33e9847dd18eb3cbfa8a9fde2",
+      "id": "fecd844d14ec",
+      "priority": 1,
+      "group": "8b2725f347a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Ципеле",
+          "definition": "ципели"
+        },
+        {
+          "word": "су",
+          "definition": "су"
+        },
+        {
+          "word": "ти",
+          "definition": "ти\nци"
+        },
+        {
+          "word": "велике",
+          "definition": "вельки"
+        }
+      ],
+      "chips": [
+        "Ципели",
+        "ци",
+        "вельки",
+        "и",
+        "мали"
+      ],
+      "solutions": [
+        [
+          "Ципели",
+          "ци",
+          "вельки"
+        ]
+      ],
+      "formattedSolution": "Ципели ци вельки",
+      "id": "033ac14777db",
+      "priority": 2,
+      "group": "8b2725f347a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Ципели",
+          "definition": "ципеле"
+        },
+        {
+          "word": "ци",
+          "definition": "ти"
+        },
+        {
+          "word": "вельки",
+          "definition": "велик\nвелике\nкрупан"
+        }
+      ],
+      "chips": [
+        "Ципеле",
+        "су",
+        "ти",
+        "велике",
+        "и",
+        "је",
+        "пије"
+      ],
+      "solutions": [
+        [
+          "Ципеле",
+          "су",
+          "ти",
+          "велике"
+        ]
+      ],
+      "formattedSolution": "Ципеле су ти велике",
+      "id": "b37c894b40a8",
+      "priority": 2,
+      "group": "8b2725f347a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Маїца велька",
+      "meaningInSourceLanguage": "Мајица је велика",
+      "id": "8e2a0be03b91",
+      "priority": 0,
+      "group": "a7de4e136e02"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Маїца велька",
+      "meaning": "Мајица је велика",
+      "audio": "58db22679a56dd2e78333495a48ecb8cfb18a74c7d3d94a7ab5e1195237850d0",
+      "id": "cf5f0d62479f",
+      "priority": 1,
+      "group": "a7de4e136e02"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Мајица",
+          "definition": "маїца"
+        },
+        {
+          "word": "је",
+          "definition": "є"
+        },
+        {
+          "word": "велика",
+          "definition": "велька"
+        }
+      ],
+      "chips": [
+        "Маїца",
+        "велька",
+        "качка",
+        "Цеца"
+      ],
+      "solutions": [
+        [
+          "Маїца",
+          "велька"
+        ]
+      ],
+      "formattedSolution": "Маїца велька",
+      "id": "407aa15af9b3",
+      "priority": 2,
+      "group": "a7de4e136e02"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Маїца",
+          "definition": "мајица"
+        },
+        {
+          "word": "велька",
+          "definition": "велика"
+        }
+      ],
+      "chips": [
+        "Мајица",
+        "је",
+        "велика",
+        "Цеца",
+        "велике"
+      ],
+      "solutions": [
+        [
+          "Мајица",
+          "је",
+          "велика"
+        ]
+      ],
+      "formattedSolution": "Мајица је велика",
+      "id": "6dc099327c21",
+      "priority": 2,
+      "group": "a7de4e136e02"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Шос мали",
+      "meaningInSourceLanguage": "Сукња је мала",
+      "id": "10f0cd112226",
+      "priority": 0,
+      "group": "36f63537b5e7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Шос мали",
+      "meaning": "Сукња је мала",
+      "audio": "a0a42458ab25972a52fdf8e020ba3b88a2d96054be3285f8f7c8811cac3d9550",
+      "id": "eda414eec7cd",
+      "priority": 1,
+      "group": "36f63537b5e7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Сукња",
+          "definition": "шос"
+        },
+        {
+          "word": "је",
+          "definition": "є"
+        },
+        {
+          "word": "мала",
+          "definition": "мала"
+        }
+      ],
+      "chips": [
+        "Шос",
+        "мали",
+        "мой",
+        "То"
+      ],
+      "solutions": [
+        [
+          "Шос",
+          "мали"
+        ]
+      ],
+      "formattedSolution": "Шос мали",
+      "id": "e91fca7073ef",
+      "priority": 2,
+      "group": "36f63537b5e7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Шос",
+          "definition": "сукња"
+        },
+        {
+          "word": "мали",
+          "definition": "мали\nситан"
+        }
+      ],
+      "chips": [
+        "Сукња",
+        "је",
+        "мала",
+        "Ја",
+        "Цеца"
+      ],
+      "solutions": [
+        [
+          "Сукња",
+          "је",
+          "мала"
+        ]
+      ],
+      "formattedSolution": "Сукња је мала",
+      "id": "eeac0e727ca5",
+      "priority": 2,
+      "group": "36f63537b5e7"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "dress1.jpg",
+        "dress2.jpg",
+        "dress3.jpg"
+      ],
+      "formInTargetLanguage": "сукньа",
+      "meaningInSourceLanguage": "хаљина",
+      "id": "4502332b661e",
+      "priority": 0,
+      "group": "ab758863cdc4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "dress1.jpg",
+        "dress2.jpg",
+        "dress3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "сукньа"
+      ],
+      "phrase": [
+        {
+          "word": "хаљина",
+          "definition": "сукньа\nсукня"
+        }
+      ],
+      "id": "df631f6699f7",
+      "priority": 1,
+      "group": "ab758863cdc4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "сукньа",
+      "meaning": "хаљина",
+      "audio": "b4000f11418ae5d0e8c0db53834938800c609a29ae230e23506134e95594e9ea",
+      "id": "7190e3bfed2f",
+      "priority": 1,
+      "group": "ab758863cdc4"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "t-shirt1.jpg",
+        "t-shirt2.jpg",
+        "t-shirt3.jpg"
+      ],
+      "formInTargetLanguage": "маїца",
+      "meaningInSourceLanguage": "мајица",
+      "id": "0800df64ff3e",
+      "priority": 0,
+      "group": "84a27cb10662"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "t-shirt1.jpg",
+        "t-shirt2.jpg",
+        "t-shirt3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "маїца"
+      ],
+      "phrase": [
+        {
+          "word": "мајица",
+          "definition": "маїца"
+        }
+      ],
+      "id": "27c443f660e0",
+      "priority": 1,
+      "group": "84a27cb10662"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "маїца",
+      "meaning": "мајица",
+      "audio": "e5908e07b7a6b9595b993491f385121ed0f194c7b648cb9b42e970fbb5e83585",
+      "id": "8ce444c77cd9",
+      "priority": 1,
+      "group": "84a27cb10662"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "hat1.jpg",
+        "hat2.jpg",
+        "hat3.jpg"
+      ],
+      "formInTargetLanguage": "калап",
+      "meaningInSourceLanguage": "шешир",
+      "id": "f0b7cbf606f3",
+      "priority": 0,
+      "group": "2de129283176"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "hat1.jpg",
+        "hat2.jpg",
+        "hat3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "калап"
+      ],
+      "phrase": [
+        {
+          "word": "шешир",
+          "definition": "калап"
+        }
+      ],
+      "id": "734daf95f0b4",
+      "priority": 1,
+      "group": "2de129283176"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "калап",
+      "meaning": "шешир",
+      "audio": "dd64ca15b79d2c89d0a23df3ee4cc7ee524028a759bca496e398d2d3a4f87ab7",
+      "id": "be3eecbe0ae7",
+      "priority": 1,
+      "group": "2de129283176"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "shoes1.jpg",
+        "shoes2.jpg",
+        "shoes3.jpg"
+      ],
+      "formInTargetLanguage": "ципели",
+      "meaningInSourceLanguage": "ципеле",
+      "id": "ea6cd1bb4c2e",
+      "priority": 0,
+      "group": "b6eb04ddd4bc"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "shoes1.jpg",
+        "shoes2.jpg",
+        "shoes3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "ципели"
+      ],
+      "phrase": [
+        {
+          "word": "ципеле",
+          "definition": "ципели"
+        }
+      ],
+      "id": "972c84a1313b",
+      "priority": 1,
+      "group": "b6eb04ddd4bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ципели",
+      "meaning": "ципеле",
+      "audio": "533e76984ba0e69bd1be96c21331baf9e70ddbd63c10a2e2cebd7df315d841fa",
+      "id": "a67a31d5aedc",
+      "priority": 1,
+      "group": "b6eb04ddd4bc"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "shirt1.jpg",
+        "shirt2.jpg",
+        "shirt3.jpg"
+      ],
+      "formInTargetLanguage": "кошуля",
+      "meaningInSourceLanguage": "кошуља",
+      "id": "de57bc9b55a3",
+      "priority": 0,
+      "group": "30e9adf35538"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "shirt1.jpg",
+        "shirt2.jpg",
+        "shirt3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "кошуля"
+      ],
+      "phrase": [
+        {
+          "word": "кошуља",
+          "definition": "кошуля"
+        }
+      ],
+      "id": "5fbfeb171c4a",
+      "priority": 1,
+      "group": "30e9adf35538"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "кошуля",
+      "meaning": "кошуља",
+      "audio": "b07c6227a7d0fb78b5c0b6cc6558600594e88b4dcdf80ee90fab3beaf5fe4009",
+      "id": "babd2fb54876",
+      "priority": 1,
+      "group": "30e9adf35538"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "skirt1.jpg",
+        "skirt2.jpg",
+        "skirt3.jpg"
+      ],
+      "formInTargetLanguage": "шос",
+      "meaningInSourceLanguage": "сукња",
+      "id": "89e732bf7e50",
+      "priority": 0,
+      "group": "20bc23bd1794"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "skirt1.jpg",
+        "skirt2.jpg",
+        "skirt3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "шос"
+      ],
+      "phrase": [
+        {
+          "word": "сукња",
+          "definition": "шос"
+        }
+      ],
+      "id": "91f8b239541c",
+      "priority": 1,
+      "group": "20bc23bd1794"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "шос",
+      "meaning": "сукња",
+      "audio": "04ee302500496728bec831e987f7f29c2a6560f40b8c769a3a4847c8e766bb8a",
+      "id": "ea47a6654c4a",
+      "priority": 1,
+      "group": "20bc23bd1794"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "socks1.jpg",
+        "socks2.jpg",
+        "socks3.jpg"
+      ],
+      "formInTargetLanguage": "ботоши",
+      "meaningInSourceLanguage": "чарапе",
+      "id": "0d51377401b8",
+      "priority": 0,
+      "group": "ccbf1aaa0799"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "socks1.jpg",
+        "socks2.jpg",
+        "socks3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "ботоши"
+      ],
+      "phrase": [
+        {
+          "word": "чарапе",
+          "definition": "ботоши"
+        }
+      ],
+      "id": "fb7fb7ddd998",
+      "priority": 1,
+      "group": "ccbf1aaa0799"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ботоши",
+      "meaning": "чарапе",
+      "audio": "00874163efa48d481c4a7f6e51a5f436d27f2a5c79938f13f047efa75efcdb07",
+      "id": "3f8b4de9f113",
+      "priority": 1,
+      "group": "ccbf1aaa0799"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "dress1.jpg",
+        "dress2.jpg",
+        "dress3.jpg"
+      ],
+      "formInTargetLanguage": "тота сукня",
+      "meaningInSourceLanguage": "та хаљина",
+      "id": "4e5c1fa0c396",
+      "priority": 0,
+      "group": "1ea3405908a9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "dress1.jpg",
+        "dress2.jpg",
+        "dress3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тота сукня"
+      ],
+      "phrase": [
+        {
+          "word": "та",
+          "definition": "тота"
+        },
+        {
+          "word": "хаљина",
+          "definition": "сукньа\nсукня"
+        }
+      ],
+      "id": "dd13d8d194eb",
+      "priority": 1,
+      "group": "1ea3405908a9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тота сукня",
+      "meaning": "та хаљина",
+      "audio": "4d87b5599a31b90af76d00a4c7799eb0c63d5bb15be70815a749b83fc523d18f",
+      "id": "c9ebf04220c8",
+      "priority": 1,
+      "group": "1ea3405908a9"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "t-shirt1.jpg",
+        "t-shirt2.jpg",
+        "t-shirt3.jpg"
+      ],
+      "formInTargetLanguage": "тота маїца",
+      "meaningInSourceLanguage": "та мајица",
+      "id": "cada9852498f",
+      "priority": 0,
+      "group": "d61f25623d27"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "t-shirt1.jpg",
+        "t-shirt2.jpg",
+        "t-shirt3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тота маїца"
+      ],
+      "phrase": [
+        {
+          "word": "та",
+          "definition": "тота"
+        },
+        {
+          "word": "мајица",
+          "definition": "маїца"
+        }
+      ],
+      "id": "397a36548619",
+      "priority": 1,
+      "group": "d61f25623d27"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тота маїца",
+      "meaning": "та мајица",
+      "audio": "966af8313997a129a88548279bf82858a930ffc9f91ca8f1d7ffb46b89941bbe",
+      "id": "63f03b7ea62c",
+      "priority": 1,
+      "group": "d61f25623d27"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "hat1.jpg",
+        "hat2.jpg",
+        "hat3.jpg"
+      ],
+      "formInTargetLanguage": "єден калап",
+      "meaningInSourceLanguage": "један шешир",
+      "id": "0e0569a28807",
+      "priority": 0,
+      "group": "df477fdaac8b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "hat1.jpg",
+        "hat2.jpg",
+        "hat3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "єден калап"
+      ],
+      "phrase": [
+        {
+          "word": "један",
+          "definition": "єден"
+        },
+        {
+          "word": "шешир",
+          "definition": "калап"
+        }
+      ],
+      "id": "989439dfcd0f",
+      "priority": 1,
+      "group": "df477fdaac8b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "єден калап",
+      "meaning": "један шешир",
+      "audio": "51baab12a0f0fba8f8a9af4c36f2b7a9bb33baf5dd52a4f0eb474f0db9030c44",
+      "id": "46de5c5c48d5",
+      "priority": 1,
+      "group": "df477fdaac8b"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "shoes1.jpg",
+        "shoes2.jpg",
+        "shoes3.jpg"
+      ],
+      "formInTargetLanguage": "тоти ципели",
+      "meaningInSourceLanguage": "те ципеле",
+      "id": "2b3dc1503a3b",
+      "priority": 0,
+      "group": "dcc9348e6996"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "shoes1.jpg",
+        "shoes2.jpg",
+        "shoes3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тоти ципели"
+      ],
+      "phrase": [
+        {
+          "word": "те",
+          "definition": "тоти"
+        },
+        {
+          "word": "ципеле",
+          "definition": "ципели"
+        }
+      ],
+      "id": "925a09793641",
+      "priority": 1,
+      "group": "dcc9348e6996"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тоти ципели",
+      "meaning": "те ципеле",
+      "audio": "c2514b7a99f53d939eea4c705a636aeb63f19fcabde4d71cb6a96014f987df5f",
+      "id": "7af718832950",
+      "priority": 1,
+      "group": "dcc9348e6996"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "shirt1.jpg",
+        "shirt2.jpg",
+        "shirt3.jpg"
+      ],
+      "formInTargetLanguage": "тота кошуля",
+      "meaningInSourceLanguage": "та кошуља",
+      "id": "f49d2479ee99",
+      "priority": 0,
+      "group": "86ba568ff8c4"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "shirt1.jpg",
+        "shirt2.jpg",
+        "shirt3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тота кошуля"
+      ],
+      "phrase": [
+        {
+          "word": "та",
+          "definition": "тота"
+        },
+        {
+          "word": "кошуља",
+          "definition": "кошуля"
+        }
+      ],
+      "id": "cd46bbf71c73",
+      "priority": 1,
+      "group": "86ba568ff8c4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тота кошуля",
+      "meaning": "та кошуља",
+      "audio": "b46af522e9f5be20decb9d4639949eee01629b4a246a640c15b7795057b69ad8",
+      "id": "824ec6c7703d",
+      "priority": 1,
+      "group": "86ba568ff8c4"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "skirt1.jpg",
+        "skirt2.jpg",
+        "skirt3.jpg"
+      ],
+      "formInTargetLanguage": "тот шос",
+      "meaningInSourceLanguage": "та сукња",
+      "id": "9ede992af672",
+      "priority": 0,
+      "group": "41ba230b8efb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "skirt1.jpg",
+        "skirt2.jpg",
+        "skirt3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тот шос"
+      ],
+      "phrase": [
+        {
+          "word": "та",
+          "definition": "тота"
+        },
+        {
+          "word": "сукња",
+          "definition": "шос"
+        }
+      ],
+      "id": "c87f830d8964",
+      "priority": 1,
+      "group": "41ba230b8efb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тот шос",
+      "meaning": "та сукња",
+      "audio": "36a74936e2ca29f543694eb52f2ab78a3729418e0ead580a043a1899663e8cc9",
+      "id": "6d4204515121",
+      "priority": 1,
+      "group": "41ba230b8efb"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "socks1.jpg",
+        "socks2.jpg",
+        "socks3.jpg"
+      ],
+      "formInTargetLanguage": "тоти ботоши",
+      "meaningInSourceLanguage": "те чарапе",
+      "id": "898e6fcd5ccf",
+      "priority": 0,
+      "group": "6814545c6842"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "socks1.jpg",
+        "socks2.jpg",
+        "socks3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тоти ботоши"
+      ],
+      "phrase": [
+        {
+          "word": "те",
+          "definition": "тоти"
+        },
+        {
+          "word": "чарапе",
+          "definition": "ботоши"
+        }
+      ],
+      "id": "e271e506ca26",
+      "priority": 1,
+      "group": "6814545c6842"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тоти ботоши",
+      "meaning": "те чарапе",
+      "audio": "858298df6ebb5e2b4a5deab6d2486e6e427373f5465dcf69ffa51fbe987f29d1",
+      "id": "009db78657e7",
+      "priority": 1,
+      "group": "6814545c6842"
+    }
+  ]
+}

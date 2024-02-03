@@ -1,0 +1,843 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "То мой конь",
+      "meaningInSourceLanguage": "Ово је мој коњ",
+      "id": "4681c3a6ad23",
+      "priority": 0,
+      "group": "a325878b0503"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "То мой конь",
+      "meaning": "Ово је мој коњ",
+      "audio": "339e2e2adcf417d541778bb0ab8233afd4a2eb0ef11aa122d5231d1767dc4f54",
+      "id": "a8be69d7a24f",
+      "priority": 1,
+      "group": "a325878b0503"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Ово",
+          "definition": "то\nтото"
+        },
+        {
+          "word": "је",
+          "definition": "є"
+        },
+        {
+          "word": "мој",
+          "definition": "мой"
+        },
+        {
+          "word": "коњ",
+          "definition": "конь"
+        }
+      ],
+      "chips": [
+        "То",
+        "мой",
+        "конь",
+        "то",
+        "Шос"
+      ],
+      "solutions": [
+        [
+          "То",
+          "мой",
+          "конь"
+        ]
+      ],
+      "formattedSolution": "То мой конь",
+      "id": "9b3c6cf02cac",
+      "priority": 2,
+      "group": "a325878b0503"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "То",
+          "definition": "ово"
+        },
+        {
+          "word": "мой",
+          "definition": "мој"
+        },
+        {
+          "word": "конь",
+          "definition": "коњ"
+        }
+      ],
+      "chips": [
+        "Ово",
+        "је",
+        "мој",
+        "коњ",
+        "то",
+        "и",
+        "Ја"
+      ],
+      "solutions": [
+        [
+          "Ово",
+          "је",
+          "мој",
+          "коњ"
+        ]
+      ],
+      "formattedSolution": "Ово је мој коњ",
+      "id": "fece8d9ab308",
+      "priority": 2,
+      "group": "a325878b0503"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Maкс мой пес",
+      "meaningInSourceLanguage": "Maкс је мој пас",
+      "id": "6ba95f79a34a",
+      "priority": 0,
+      "group": "5da4eaf67154"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Maкс мой пес",
+      "meaning": "Maкс је мој пас",
+      "audio": "c044e8ec9560dc5723453b575d8808419e8a74e231624ea6b32df38051dbd1c8",
+      "id": "65194140016e",
+      "priority": 1,
+      "group": "5da4eaf67154"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Maкс",
+          "definition": "Maкс (name)"
+        },
+        {
+          "word": "је",
+          "definition": "є"
+        },
+        {
+          "word": "мој",
+          "definition": "мой"
+        },
+        {
+          "word": "пас",
+          "definition": "пес"
+        }
+      ],
+      "chips": [
+        "Maкс",
+        "мой",
+        "пес",
+        "Шос",
+        "То"
+      ],
+      "solutions": [
+        [
+          "Maкс",
+          "мой",
+          "пес"
+        ]
+      ],
+      "formattedSolution": "Maкс мой пес",
+      "id": "1cc13d9a3b4b",
+      "priority": 2,
+      "group": "5da4eaf67154"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Maкс",
+          "definition": "Maкс (name)"
+        },
+        {
+          "word": "мой",
+          "definition": "мој"
+        },
+        {
+          "word": "пес",
+          "definition": "пас"
+        }
+      ],
+      "chips": [
+        "Maкс",
+        "је",
+        "мој",
+        "пас",
+        "пар",
+        "Ја",
+        "то"
+      ],
+      "solutions": [
+        [
+          "Maкс",
+          "је",
+          "мој",
+          "пас"
+        ]
+      ],
+      "formattedSolution": "Maкс је мој пас",
+      "id": "7b7269140773",
+      "priority": 2,
+      "group": "5da4eaf67154"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "Єдна качка и єден конь",
+      "meaningInSourceLanguage": "Једна патка и један коњ",
+      "id": "6b86143b54ca",
+      "priority": 0,
+      "group": "8abc872959aa"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "Єдна качка и єден конь",
+      "meaning": "Једна патка и један коњ",
+      "audio": "9bbd3dd8ffc8175407fbf97df1323deba8feefde8aa6b96aec8fbe4aead4acc9",
+      "id": "5598b681a891",
+      "priority": 1,
+      "group": "8abc872959aa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Једна",
+          "definition": "єдна"
+        },
+        {
+          "word": "патка",
+          "definition": "качка"
+        },
+        {
+          "word": "и",
+          "definition": "и"
+        },
+        {
+          "word": "један",
+          "definition": "єден"
+        },
+        {
+          "word": "коњ",
+          "definition": "конь"
+        }
+      ],
+      "chips": [
+        "Єдна",
+        "качка",
+        "и",
+        "єден",
+        "конь",
+        "є",
+        "То",
+        "Я",
+        "єм"
+      ],
+      "solutions": [
+        [
+          "Єдна",
+          "качка",
+          "и",
+          "єден",
+          "конь"
+        ]
+      ],
+      "formattedSolution": "Єдна качка и єден конь",
+      "id": "32c7985b4565",
+      "priority": 2,
+      "group": "8abc872959aa"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "Єдна",
+          "definition": "једна"
+        },
+        {
+          "word": "качка",
+          "definition": "патка"
+        },
+        {
+          "word": "и",
+          "definition": "и"
+        },
+        {
+          "word": "єден",
+          "definition": "један"
+        },
+        {
+          "word": "конь",
+          "definition": "коњ"
+        }
+      ],
+      "chips": [
+        "Једна",
+        "патка",
+        "и",
+        "један",
+        "коњ",
+        "Ја",
+        "је",
+        "пас",
+        "Цеца"
+      ],
+      "solutions": [
+        [
+          "Једна",
+          "патка",
+          "и",
+          "један",
+          "коњ"
+        ]
+      ],
+      "formattedSolution": "Једна патка и један коњ",
+      "id": "34aeab9e61e2",
+      "priority": 2,
+      "group": "8abc872959aa"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": "пес",
+      "meaningInSourceLanguage": "пас",
+      "id": "54423af1bdc1",
+      "priority": 0,
+      "group": "fc29f3d45eea"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "пес"
+      ],
+      "phrase": [
+        {
+          "word": "пас",
+          "definition": "пес"
+        }
+      ],
+      "id": "0fbc4b52be0d",
+      "priority": 1,
+      "group": "fc29f3d45eea"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "пес",
+      "meaning": "пас",
+      "audio": "682ecfdc0bbe3ca2c37ab040d1163f29231de0f72e91024d066b20de36539119",
+      "id": "5029cc917761",
+      "priority": 1,
+      "group": "fc29f3d45eea"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": "мачка",
+      "meaningInSourceLanguage": "мачка",
+      "id": "40608bc2d832",
+      "priority": 0,
+      "group": "99f36670b925"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "мачка"
+      ],
+      "phrase": [
+        {
+          "word": "мачка",
+          "definition": "мачка"
+        }
+      ],
+      "id": "2ae32c2e9757",
+      "priority": 1,
+      "group": "99f36670b925"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "мачка",
+      "meaning": "мачка",
+      "audio": "591aaa6d4f06709aa8a615078293e7be85d6ed6b1cb3828f652dd0307d97c932",
+      "id": "2e337e7ca73a",
+      "priority": 1,
+      "group": "99f36670b925"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "bear1.jpg",
+        "bear2.jpg",
+        "bear1.jpg"
+      ],
+      "formInTargetLanguage": "медведз",
+      "meaningInSourceLanguage": "медвед",
+      "id": "9e7dc88e3f83",
+      "priority": 0,
+      "group": "6aac71311aa3"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "bear1.jpg",
+        "bear2.jpg",
+        "bear1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "медведз"
+      ],
+      "phrase": [
+        {
+          "word": "медвед",
+          "definition": "медведз"
+        }
+      ],
+      "id": "1511f68e1f39",
+      "priority": 1,
+      "group": "6aac71311aa3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "медведз",
+      "meaning": "медвед",
+      "audio": "ae5669f00fca161118ead6c9b3adcfc4137b1ee70c936264ebeb0642fc7758ac",
+      "id": "b2a7f1867bfb",
+      "priority": 1,
+      "group": "6aac71311aa3"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "lion1.jpg",
+        "lion2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": "лєв",
+      "meaningInSourceLanguage": "лав",
+      "id": "84760cdb60df",
+      "priority": 0,
+      "group": "6be63eb940c9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "lion1.jpg",
+        "lion2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "лєв"
+      ],
+      "phrase": [
+        {
+          "word": "лав",
+          "definition": "лєв"
+        }
+      ],
+      "id": "29dbf026fc3f",
+      "priority": 1,
+      "group": "6be63eb940c9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "лєв",
+      "meaning": "лав",
+      "audio": "95dca59142eb49e5d7648327b42b1127c91a20587223b04d5f4c5712e79be151",
+      "id": "12956ccbcb1b",
+      "priority": 1,
+      "group": "6be63eb940c9"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "duck1.jpg",
+        "duck2.jpg",
+        "duck3.jpg"
+      ],
+      "formInTargetLanguage": "качка",
+      "meaningInSourceLanguage": "патка",
+      "id": "b1539bb4b59f",
+      "priority": 0,
+      "group": "5751f668a4e1"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "duck1.jpg",
+        "duck2.jpg",
+        "duck3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "качка"
+      ],
+      "phrase": [
+        {
+          "word": "патка",
+          "definition": "качка"
+        }
+      ],
+      "id": "78e820807e89",
+      "priority": 1,
+      "group": "5751f668a4e1"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "качка",
+      "meaning": "патка",
+      "audio": "559bbb23db36620b401198a26302dbd9b6302cae1da43d11cfcd302241e5f725",
+      "id": "cddbc153fb48",
+      "priority": 1,
+      "group": "5751f668a4e1"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "horse1.jpg",
+        "horse2.jpg",
+        "horse3.jpg"
+      ],
+      "formInTargetLanguage": "конь",
+      "meaningInSourceLanguage": "коњ",
+      "id": "9108678450c7",
+      "priority": 0,
+      "group": "98d4a2a0fe89"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "horse1.jpg",
+        "horse2.jpg",
+        "horse3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "конь"
+      ],
+      "phrase": [
+        {
+          "word": "коњ",
+          "definition": "конь"
+        }
+      ],
+      "id": "451fd3821824",
+      "priority": 1,
+      "group": "98d4a2a0fe89"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "конь",
+      "meaning": "коњ",
+      "audio": "ac2fc52c593cb0ce55b65ebab9982fb7f0a96180000e8058e3e35ce724149fe7",
+      "id": "862aab0b0bbc",
+      "priority": 1,
+      "group": "98d4a2a0fe89"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": "тота мачка",
+      "meaningInSourceLanguage": "та мачка",
+      "id": "e4c181da776b",
+      "priority": 0,
+      "group": "9c87943b06d9"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тота мачка"
+      ],
+      "phrase": [
+        {
+          "word": "та",
+          "definition": "тота"
+        },
+        {
+          "word": "мачка",
+          "definition": "мачка"
+        }
+      ],
+      "id": "2704389f0c17",
+      "priority": 1,
+      "group": "9c87943b06d9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тота мачка",
+      "meaning": "та мачка",
+      "audio": "3b55e6b4905f005559681a945e263c47e6a87188794a766a10ffe5b2b4b3fa6a",
+      "id": "36e0e17143ad",
+      "priority": 1,
+      "group": "9c87943b06d9"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "bear1.jpg",
+        "bear2.jpg",
+        "bear1.jpg"
+      ],
+      "formInTargetLanguage": "єден медведз",
+      "meaningInSourceLanguage": "један медвед",
+      "id": "db00940b675c",
+      "priority": 0,
+      "group": "14e7124baa50"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "bear1.jpg",
+        "bear2.jpg",
+        "bear1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "єден медведз"
+      ],
+      "phrase": [
+        {
+          "word": "један",
+          "definition": "єден"
+        },
+        {
+          "word": "медвед",
+          "definition": "медведз"
+        }
+      ],
+      "id": "5dc7cfe025fd",
+      "priority": 1,
+      "group": "14e7124baa50"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "єден медведз",
+      "meaning": "један медвед",
+      "audio": "cbcee1256e33c041404fdbdd67b9ef5595e5a2d2b71540f59364bd66a3568b98",
+      "id": "a0d8929d76ec",
+      "priority": 1,
+      "group": "14e7124baa50"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "lion1.jpg",
+        "lion2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": "єден лєв",
+      "meaningInSourceLanguage": "један лав",
+      "id": "f6a60c1a8fb4",
+      "priority": 0,
+      "group": "6e1eb03578be"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "lion1.jpg",
+        "lion2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "єден лєв"
+      ],
+      "phrase": [
+        {
+          "word": "један",
+          "definition": "єден"
+        },
+        {
+          "word": "лав",
+          "definition": "лєв"
+        }
+      ],
+      "id": "3ace4c1a73d2",
+      "priority": 1,
+      "group": "6e1eb03578be"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "єден лєв",
+      "meaning": "један лав",
+      "audio": "a123141b4251b6430ee16edff04df7bcf01a45f0abdfe6a24a30356d923f36b8",
+      "id": "21e6dfcf9ced",
+      "priority": 1,
+      "group": "6e1eb03578be"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "duck1.jpg",
+        "duck2.jpg",
+        "duck3.jpg"
+      ],
+      "formInTargetLanguage": "тота качка",
+      "meaningInSourceLanguage": "ова патка",
+      "id": "5228090b3c44",
+      "priority": 0,
+      "group": "31c2cb9494a0"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "duck1.jpg",
+        "duck2.jpg",
+        "duck3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тота качка"
+      ],
+      "phrase": [
+        {
+          "word": "ова",
+          "definition": "тота"
+        },
+        {
+          "word": "патка",
+          "definition": "качка"
+        }
+      ],
+      "id": "23e5104a6b3b",
+      "priority": 1,
+      "group": "31c2cb9494a0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тота качка",
+      "meaning": "ова патка",
+      "audio": "2464caa845dcf7a0ca4fe2d31ceff2f4c07495359948ccbcfeda38a9815398de",
+      "id": "cc1c50aa0ec2",
+      "priority": 1,
+      "group": "31c2cb9494a0"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "horse1.jpg",
+        "horse2.jpg",
+        "horse3.jpg"
+      ],
+      "formInTargetLanguage": "єден конь",
+      "meaningInSourceLanguage": "један коњ",
+      "id": "2b99d915a62f",
+      "priority": 0,
+      "group": "5c4915d337c5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "horse1.jpg",
+        "horse2.jpg",
+        "horse3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "єден конь"
+      ],
+      "phrase": [
+        {
+          "word": "један",
+          "definition": "єден"
+        },
+        {
+          "word": "коњ",
+          "definition": "конь"
+        }
+      ],
+      "id": "edbe4eb30327",
+      "priority": 1,
+      "group": "5c4915d337c5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "єден конь",
+      "meaning": "један коњ",
+      "audio": "ddaca7863886b22e1916b35ae0ad6a1aff294605da20c991a6f7deced0ec9367",
+      "id": "f6305380dd4c",
+      "priority": 1,
+      "group": "5c4915d337c5"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": "тот пес",
+      "meaningInSourceLanguage": "тај пас",
+      "id": "810ecd02b9f4",
+      "priority": 0,
+      "group": "8a6cab5b06e2"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "тот пес"
+      ],
+      "phrase": [
+        {
+          "word": "тај",
+          "definition": "тот"
+        },
+        {
+          "word": "пас",
+          "definition": "пес"
+        }
+      ],
+      "id": "90ef41604599",
+      "priority": 1,
+      "group": "8a6cab5b06e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "тот пес",
+      "meaning": "тај пас",
+      "audio": "20e5bbe3dd5abd66728b6064729e9a6e19e85fa25d0ce3d0888ed4c968f5a0d8",
+      "id": "520e2af621c0",
+      "priority": 1,
+      "group": "8a6cab5b06e2"
+    }
+  ]
+}
