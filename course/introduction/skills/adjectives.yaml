@@ -1,0 +1,230 @@
+Skill:
+  Name: Придеви
+  Id: 15
+
+New words:
+  - Word: миш
+    Translation: миш
+    Images:
+      - mouse1
+      - mouse2
+      - mouse3
+
+  - Word: слон
+    Translation: слон
+    Images:
+      - elephant1
+      - elephant2
+      - elephant3
+
+  - Word: парк
+    Translation: парк
+    Images:
+      - park1
+      - park2
+      - park3
+
+  - Word: тот миш
+    Translation: тај миш
+    Images:
+      - mouse1
+      - mouse2
+      - mouse3
+
+  - Word: гевтот слон
+    Translation: онај слон
+    Images:
+      - elephant1
+      - elephant2
+      - elephant3
+
+  - Word: тот парк
+    Translation: овај парк
+    Images:
+      - park1
+      - park2
+      - park3
+
+Phrases:
+  - Phrase: Цецилия висока
+    Translation: Цецилија је висока
+
+  - Phrase: Марко високи
+    Translation: Марко је висок
+
+  - Phrase: Я стари
+    Alternative versions:
+      - Стари сом
+    Translation: Ја сам стар
+    Alternative translations:
+      - Стар сам
+
+  - Phrase: Вона стара
+    Alternative versions:
+      - Стара є
+    Translation: Она је стара
+    Alternative translations:
+      - Стара је
+
+  - Phrase: Вон стари
+    Alternative versions:
+      - Стари є
+    Translation: Он је стар
+    Alternative translations:
+      - Стар је
+
+  - Phrase: Я вельки
+    Alternative versions:
+      - Вельки сом
+    Translation: Ја сам велик
+    Alternative translations:
+      - Велик сам
+
+  - Phrase: Вона велька
+    Alternative versions:
+      - Велька є
+    Translation: Она је велика
+    Alternative translations:
+      - Велика је
+
+  - Phrase: Ми вельки
+    Alternative versions:
+      - Вельки зме
+    Translation: Ми смо велики
+    Alternative translations:
+      - Велики смо
+
+  - Phrase: Вони вельки
+    Alternative versions:
+      - Вельки су
+    Translation: Они су велики
+    Alternative translations:
+      - Велики су
+
+  - Phrase: Ми мали
+    Alternative versions:
+      - Мали зме
+    Translation: Они су мали
+    Alternative translations:
+      - Мали су
+
+  - Phrase: Мачата манди
+    Translation: Мачићи су мали
+
+  - Phrase: Старши єдза месо
+    Alternative versions:
+      - Месо єдза старши
+    Translation: Стариији једу месо
+    Alternative translations:
+      - Месо једу старији
+
+  - Phrase: Марко нє нїски
+    Translation: Марко није низак
+
+  - Phrase: Гевтот пес мали и стари
+    Translation: Тај пас је мали и стар
+
+  - Phrase: Гевтот парк манди
+    Translation: Тај парк је мали
+
+  - Phrase: Тот парк вельки
+    Translation: Овај парк је велик
+
+  - Phrase: Миш манди
+    Translation: Миш је мали
+
+  - Phrase: Слон вельки, миш манди
+    Alternative versions:
+      - Слони вельки, миши манди
+    Translation: Слон је велик, миш је мали
+    Alternative translations:
+      - Слонови су велики, мишеви су мали
+
+  - Phrase: Вельки миши робя
+    Translation: Велики мишеви раде
+
+Mini-dictionary:
+  Serbian:
+    - висок: високи
+    - висока: висока
+    - високо: високе
+    - високи: високи
+    - стар: стари
+    - стара: стара
+    - старо: старе
+    - стари: стари
+    - мали: манди
+    - мала: манда
+    - мало: манде
+    - он: вон
+    - она: вона
+    - оно: воно
+    - ми: ми
+    - ви: ви
+    - они: вони
+    - месо: месо
+    - не: нє
+    - није: нє
+    - низак: нїски
+    - ниска: нїска
+    - ниско: нїске
+    - ниски: нїски
+    - слон: слон
+    - слони: слони
+    - миш: миш
+    - мишеви: миши
+    - рад: робота
+    - ради: роби
+    - радимо: робиме
+    - Цецилија: Цецилия
+    - Марко: Марко
+    - велики: вельки
+    - мачићи: мачата
+    - стариији: старши
+    - једу: єдза
+    - овај: тот
+    - раде: робя
+
+  Rusyn:
+    - високи: висок
+    - висока: висока
+    - високе: високо
+    - високи: високи
+    - стари: стар
+    - стара: стара
+    - старе: старо
+    - стари: стари
+    - манди: мали
+    - манда: мала
+    - манде: мало
+    - вон: он
+    - вона: она
+    - воно: оно
+    - ми: ми
+    - ви: ви
+    - вони: они
+    - месо: месо
+    - нє:
+      - не
+      - није
+    - нїски: низак
+    - нїска: ниска
+    - нїске: ниско
+    - нїски: ниски
+    - слон: слон
+    - слони: слони
+    - миш: миш
+    - миши: мишеви
+    - робота:
+      - рад
+      - посао
+    - роби: ради
+    - робиме: радимо
+    - Цецилия: Цецилија
+    - Марко: Марко
+    - вельки: велики
+    - мачата: мачићи
+    - старши: стариији
+    - єдза: једу
+    - тот: овај
+    - робя: раде

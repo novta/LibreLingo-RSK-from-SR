@@ -1,0 +1,113 @@
+Skill:
+  Name: Преференције
+  Id: 13
+
+New words:
+  - Word: кафа
+    Translation: кафа
+    Images:
+      - coffee1
+      - coffee2
+      - coffee3
+
+  - Word: вино
+    Translation: вино
+    Images:
+      - wine1
+      - wine2
+      - wine3
+
+  - Word: пиво
+    Translation: пиво
+    Images:
+      - beer1
+      - beer2
+      - beer3
+
+  - Word: єдна кафа
+    Translation: једна кафа
+    Images:
+      - coffee1
+      - coffee2
+      - coffee3
+
+  - Word: єдно вино
+    Translation: једно вино
+    Images:
+      - wine1
+      - wine2
+      - wine3
+
+
+
+Phrases:
+  - Phrase: Любиш кафу?
+    Translation: Волиш ли кафу?
+
+  - Phrase: Я любим цесто
+    Translation: Ја волим тестенину
+
+  - Phrase: Я любим пиво
+    Translation: Ја волим пиво
+
+  - Phrase: Я нє любим вино
+    Translation: Ја не волим вино
+
+  - Phrase: Вон нє є месо
+    Translation: Он не једе месо
+
+  - Phrase: Я пиєм вино
+    Alternative versions:
+      - Пиєм вино
+    Translation: Ја пијем вино
+    Alternative translations:
+      - Пијем вино
+
+  - Phrase: Цеца нє є цесто
+    Translation: Цеца не једе тестенину
+
+  - Phrase: Модлїм єдно пиво!
+    Translation: Једно пиво молим!
+
+  - Phrase: Пачи ци ше вино?
+    Translation: Свиђа ли ти се вино?
+    Alternative translations:
+      - Да ли ти се свиђа вино?
+
+  - Phrase: Нє пачи ци ше хлєб?
+    Translation: Не свиђа ти се хлеб?
+
+Mini-dictionary:
+  Serbian:
+    - пијем: пиєм
+    - волиш: любиш
+    - волим: любим
+    - кафу: кафу
+    - тестенину: цесто
+    - пиво: пиво
+    - вино: вино
+    - месо: месо
+    - једе: є
+    - не: нє
+    - пијем: пиєм
+    - молим: модлїм
+    - свиђа: пачи
+    - хлеб: хлєб
+    - једно: єдно
+
+  Rusyn:
+    - пиєм: пијем 
+    - любиш: волиш 
+    - любим: волим 
+    - кафу: кафу
+    - цесто: тестенину
+    - пиво: пиво
+    - вино: вино
+    - месо: месо
+    - є: једе
+    - нє: не
+    - пиєм: пијем
+    - модлїм: молим
+    - пачи: свиђа
+    - хлєб: хлеб
+    - єдно: једно

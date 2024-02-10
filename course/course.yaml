@@ -29,19 +29,10 @@ Course:
     - "Ї"
     - "ь"
     - "Ь"
-    # - "љ"
-    # - "Љ"
-    # - "њ"
-    # - "Њ"
-    # - "ђ"
-    # - "Ђ"
-    # - "ћ"
-    # - "Ћ"
-    # - "џ"
-    # - "Џ"
     
 Modules:
   - basics/
+  - introduction/
   - activities/
 
 Settings:
