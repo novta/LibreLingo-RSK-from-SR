@@ -6,25 +6,22 @@ New words: []
 
 Phrases:
   - Phrase: Ми вариме вечеру
-    Alternative versions:
-      - Вариме вечеру
     Translation: Ми кувамо вечеру
-    Alternative translations:
-      - Кувамо вечеру
+
+  - Phrase: Вариме вечеру
+    Translation: Кувамо вечеру
 
   - Phrase: Я тераз вежбам
-    Alternative:
-      - Я тераз робим вежби 
     Translation: Ја сада вежбам
-    Alternative translations:
-      - Ја сада радим вежбе
+
+  - Phrase: Я тераз робим вежби 
+    Translation: Ја сада радим вежбе
 
   - Phrase: Вони шє бавя 
-    Alternative versions:
-      - Вони танцую
     Translation: Они се играју
-    Alternative translations:
-      - Они плешу
+
+  - Phrase: Вони танцую
+    Translation: Они плешу
 
   - Phrase: Слухаш?
     Translation: Јел сулшаш?
@@ -43,8 +40,8 @@ Phrases:
   - Phrase: Вон є чоколаду
     Translation: Он једе чоколаду
 
-  - Phrase: Пишеш писмо?
-    Translation: Да ли пишеш писмо?
+  - Phrase: Чи ти пишеш писмо?
+    Translation: Да ли ти пишеш писмо?
 
   - Phrase: Идземе до парку
     Translation: Идемо у парк
@@ -97,6 +94,8 @@ Mini-dictionary:
       - до
     - учиш: учиш
     - да: гей
+    - плешу: танцую
+    - да ли: чи
 
   Rusyn:
     - я: ја
@@ -140,3 +139,5 @@ Mini-dictionary:
     - писню: песму
     - писня: песма
     - учиш: учиш
+    - танцую: плешу
+    - чи: да ли

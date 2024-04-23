@@ -7,7 +7,7 @@ Skill:
     - hat2
   
 New words:
-  - Word: сукньа
+  - Word: сукня
     Translation: хаљина
     Images:
       - dress1
@@ -106,20 +106,20 @@ New words:
       - socks3
 
 Phrases:
-  - Phrase: Любим то!
-    Translation: Волим то!
+  - Phrase: Любим то
+    Translation: Волим то
 
   - Phrase: Кельо то?
     Translation: Колико је то?
 
   - Phrase: Дзекуєм вам
-    Synonyms: 
-      - Дзекуєм
-      - Дзекуєм ци
     Translation: Хвала вам
-    Also accepted:
-      - Хвала
-      - Хвала ти
+
+  - Phrase: Дзекуєм
+    Translation: Хвала
+
+  - Phrase: Дзекуєм ци
+    Translation: Хвала ти
 
   - Phrase: Сукня прекрасна
     Translation: Хаљина је прелепа
@@ -231,3 +231,5 @@ Mini-dictionary:
     - велька: велика
     - мала: мала
     - тоти: те
+    - сом: сам
+    - су: су

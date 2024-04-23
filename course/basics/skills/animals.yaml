@@ -93,13 +93,16 @@ New words:
 
 Phrases:
   - Phrase: То мой конь
-    Translation: Ово је мој коњ
+    Translation: То је мој коњ
 
   - Phrase: Maкс мой пес
     Translation: Maкс је мој пас
 
   - Phrase: Єдна качка и єден конь
     Translation: Једна патка и један коњ
+
+  - Phrase: Меркуй опасни пес
+    Translation: Пази опасан пас
 
 Mini-dictionary:
   Rusyn:
@@ -115,6 +118,8 @@ Mini-dictionary:
     - єдна: једна
     - тота: ова
     - пес: пас
+    - меркуй: пази
+    - опасни: опасан
 
   Serbian:
     - тај: тот
@@ -138,3 +143,5 @@ Mini-dictionary:
     - ово: то
     - ова: тота
     - пас: пес
+    - пази: меркуй
+    - опасан: опасни

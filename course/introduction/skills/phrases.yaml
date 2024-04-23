@@ -5,29 +5,29 @@ Skill:
 New words: []
 
 Phrases:
-  - Phrase: Добре рано!
-    Translation: Добро јутро!
+  - Phrase: Добре рано
+    Translation: Добро јутро
 
-  - Phrase: Добри дзень!
-    Translation: Добар дан!
+  - Phrase: Добри дзень
+    Translation: Добар дан
 
-  - Phrase: Добри вечар!
-    Translation: Добро вече!
+  - Phrase: Добри вечар
+    Translation: Добро вече
 
-  - Phrase: Добру ноц!
-    Translation: Лаку ноћ!
+  - Phrase: Добру ноц
+    Translation: Лаку ноћ
 
-  - Phrase: Добри дзень, я Цеца.
-    Translation: Добар дан, ја сам Цеца.
+  - Phrase: Добри дзень, я Цеца
+    Translation: Добар дан, ја сам Цеца
 
   - Phrase: Мойо мено Петро
-    Alternative versions:
-      - Я Петро
-      - Мнє волаю Петро
     Translation: Моје име је Петар
-    Alternative translations:
-      - Ја сам Петар
-      - Мене зову Петар
+
+  - Phrase: Я Петро
+    Translation: Ја сам Петар
+
+  - Phrase: Мнє волаю Петро
+    Translation: Мене зову Петар
 
   - Phrase: Як ши?
     Translation: Како си?
@@ -38,15 +38,14 @@ Phrases:
   - Phrase: Мило ми
     Translation: Драго ми је 
 
-  - Phrase: Видзиме ше!
-    Translation: Видимо се!
+  - Phrase: Видзиме ше
+    Translation: Видимо се
 
   - Phrase: Як ци мено?
-    Alternative versions:
-      - Як шє волаш?
     Translation: Како ти је име?
-    Alternative translations:
-      - Како се зовеш?
+
+  - Phrase: Як шє волаш?
+    Translation: Како се зовеш?
 
 Mini-dictionary:
   Serbian:
@@ -70,6 +69,8 @@ Mini-dictionary:
     - ти: ци
     - Петар: Петро
     - иде: идзе
+    - мене: мнє 
+    - зову: волаю
 
   Rusyn:
     - добри: добар
@@ -92,3 +93,5 @@ Mini-dictionary:
     - ци: ти
     - Петро: Петар
     - идзе: иде
+    - мнє: мене 
+    - волаю: зову 

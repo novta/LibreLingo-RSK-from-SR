@@ -53,72 +53,63 @@ Phrases:
     Translation: Марко је висок
 
   - Phrase: Я стари
-    Alternative versions:
-      - Стари сом
     Translation: Ја сам стар
-    Alternative translations:
-      - Стар сам
+
+  - Phrase: Стари сом
+    Translation: Стар сам
 
   - Phrase: Вона стара
-    Alternative versions:
-      - Стара є
     Translation: Она је стара
-    Alternative translations:
-      - Стара је
+
+  - Phrase: Стара є
+    Translation: Стара је
 
   - Phrase: Вон стари
-    Alternative versions:
-      - Стари є
     Translation: Он је стар
-    Alternative translations:
-      - Стар је
+
+  - Phrase: Стари є
+    Translation: Стар је
 
   - Phrase: Я вельки
-    Alternative versions:
-      - Вельки сом
     Translation: Ја сам велик
-    Alternative translations:
-      - Велик сам
+
+  - Phrase: Вельки сом
+    Translation: Велик сам
 
   - Phrase: Вона велька
-    Alternative versions:
-      - Велька є
     Translation: Она је велика
-    Alternative translations:
-      - Велика је
+
+  - Phrase: Велька є
+    Translation: Велика је
 
   - Phrase: Ми вельки
-    Alternative versions:
-      - Вельки зме
     Translation: Ми смо велики
-    Alternative translations:
-      - Велики смо
+
+  - Phrase: Вельки зме
+    Translation: Велики смо
 
   - Phrase: Вони вельки
-    Alternative versions:
-      - Вельки су
     Translation: Они су велики
-    Alternative translations:
-      - Велики су
+
+  - Phrase: Вельки су
+    Translation: Велики су
 
   - Phrase: Ми мали
-    Alternative versions:
-      - Мали зме
     Translation: Они су мали
-    Alternative translations:
-      - Мали су
+
+  - Phrase: Мали зме
+    Translation: Мали су
 
   - Phrase: Мачата манди
     Translation: Мачићи су мали
 
   - Phrase: Старши єдза месо
-    Alternative versions:
-      - Месо єдза старши
     Translation: Стариији једу месо
-    Alternative translations:
-      - Месо једу старији
 
-  - Phrase: Марко нє нїски
+  - Phrase: Месо єдза старши
+    Translation: Месо једу старији
+
+  - Phrase: Марко нє нїзки
     Translation: Марко није низак
 
   - Phrase: Гевтот пес мали и стари
@@ -134,11 +125,10 @@ Phrases:
     Translation: Миш је мали
 
   - Phrase: Слон вельки, миш манди
-    Alternative versions:
-      - Слони вельки, миши манди
     Translation: Слон је велик, миш је мали
-    Alternative translations:
-      - Слонови су велики, мишеви су мали
+
+  - Phrase: Слони вельки, миши манди
+    Translation: Слонови су велики, мишеви су мали
 
   - Phrase: Вельки миши робя
     Translation: Велики мишеви раде
@@ -165,10 +155,10 @@ Mini-dictionary:
     - месо: месо
     - не: нє
     - није: нє
-    - низак: нїски
-    - ниска: нїска
-    - ниско: нїске
-    - ниски: нїски
+    - низак: нїзки
+    - ниска: нїзка
+    - ниско: нїзке
+    - ниски: нїзки
     - слон: слон
     - слони: слони
     - миш: миш
@@ -184,6 +174,8 @@ Mini-dictionary:
     - једу: єдза
     - овај: тот
     - раде: робя
+    - старији: старши
+    - Слонови: Слони
 
   Rusyn:
     - високи: висок
@@ -207,10 +199,10 @@ Mini-dictionary:
     - нє:
       - не
       - није
-    - нїски: низак
-    - нїска: ниска
-    - нїске: ниско
-    - нїски: ниски
+    - нїзки: низак
+    - нїзка: ниска
+    - нїзке: ниско
+    - нїзки: ниски
     - слон: слон
     - слони: слони
     - миш: миш
@@ -228,3 +220,5 @@ Mini-dictionary:
     - єдза: једу
     - тот: овај
     - робя: раде
+    - старши: старији
+    - Слони: Слонови

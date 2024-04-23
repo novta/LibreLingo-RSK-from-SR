@@ -6,76 +6,64 @@ New words: []
 
 Phrases:
   - Phrase: Я студент
-    Alternative versions:
-      - Я студенткиня
     Translation: Ја сам студент
-    Alternative translations:
-      - Ја сам студенткиња
+
+  - Phrase: Я студенткиня
+    Translation: Ја сам студенткиња
 
   - Phrase: Я у школи
-    Alternative versions:
-      - У школи сом
     Translation: Ја сам у школи
-    Alternative translations:
-      - У школи сам
+
+  - Phrase: У школи сом
+    Translation: У школи сам
 
   - Phrase: Вона медицинска шестра
-    Alternative versions:
-      - Вона роби як медицинска шестра
     Translation: Она је медицинска сестра
-    Alternative translations:
-      - Она ради као медицинска сестра
+
+  - Phrase: Вона роби як медицинска шестра
+    Translation: Она ради као медицинска сестра
 
   - Phrase: Вона хора
-    Alternative versions:
-      - Хора є
     Translation: Она је болесна
-    Alternative translations:
-      - Болесна је
+
+  - Phrase: Хора є
+    Translation: Болесна је
 
   - Phrase: Ми шицки у городу
-    Alternative versions:
-      - Ми шицки у городу
-      - У городу зме шицки
-      - У варошу зме шицки
     Translation: Ми смо сви у граду
-    Alternative translations:
-      - У граду смо сви
+
+  - Phrase: У варошу зме шицки
+    Translation: У граду смо сви
 
   - Phrase: Мачка чиста
-    Alternative versions:
-      - Мачка чиста животиня
     Translation: Мачка је чиста
-    Alternative translations:
-      - Мачка је чиста животиња
+
+  - Phrase: Мачка чиста животиня
+    Translation: Мачка је чиста животиња
 
   - Phrase: Вони порихтани
-    Alternative versions:
-      - Порихтани су
     Translation: Они су спремни
-    Alternative translations:
-      - Спремни су
+
+  - Phrase: Порихтани су
+    Translation: Спремни су
 
   - Phrase: Вони мудри
-    Alternative versions:
-      - Мудри су
     Translation: Они су паметни
-    Alternative translations:
-      - Паметни су
 
-  - Phrase: Ти лїкар?
-    Alternative versions:
-      - Робиш як лїкар?
-    Translation: Јеси ли ти лекар?
-    Alternative translations:
-      - Радиш ли као лекар?
+  - Phrase: Мудри су
+    Translation: Паметни су
+
+  - Phrase: Чи ти лїкар?
+    Translation: Ти си лекар?
+
+  - Phrase: Робиш як лїкар?
+    Translation: Радиш ли као лекар?
 
   - Phrase: Щешлїви ши?
-    Alternative versions:
-      - Задовольни ши?
     Translation: Јеси ли сретан?
-    Alternative translations:
-      - Јеси ли задовољан?
+
+  - Phrase: Задовольни ши?
+    Translation: Јеси ли задовољан?
 
 Mini-dictionary:
   Serbian:
@@ -116,6 +104,7 @@ Mini-dictionary:
     - паметни: мудри
     - јеси: ши
     - ли: чи
+    - задовољан: задовольни
 
   Rusyn:
     - студент: студент 
@@ -162,3 +151,4 @@ Mini-dictionary:
     - варош: град
     - мудри: паметни
     - ши: јеси
+    - задовольни: задовољан
