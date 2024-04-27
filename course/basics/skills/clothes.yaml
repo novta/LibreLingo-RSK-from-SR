@@ -40,8 +40,12 @@ New words:
     Translation: ципеле
     Images:
       - shoes1
-      - shoes2
       - shoes3
+
+  - Word: патики
+    Translation: патике
+    Images:
+      - shoes2
 
   - Word: кошуля
     Translation: кошуља
@@ -91,14 +95,22 @@ New words:
     Translation: те ципеле
     Images:
       - shoes1
-      - shoes2
       - shoes3
+
+  - Word: тоти патики
+    Translation: те патике
+    Images:
+      - shoes2
 
   - Word: тота кошуля
     Translation: та кошуља
     Images:
       - shirt1
       - shirt2
+
+  - Word: тоти кошулї
+    Translation: те кошуље
+    Images:
       - shirt3
 
   - Word: тот шос
@@ -197,6 +209,7 @@ Mini-dictionary:
     - мајице: маїци
     - шешири: калапи
     - кошуље: кошулї
+    - патике: патики
 
   Rusyn:
     - красна: лепа
@@ -249,3 +262,4 @@ Mini-dictionary:
     - маїци: мајице
     - калапи: шешири
     - кошулї: кошуље
+    - патики: патике
