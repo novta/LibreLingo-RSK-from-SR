@@ -30,13 +30,6 @@ New words:
       - pasta2
       - pasta3
 
-  - Word: пара
-    Translation: пар
-    Images:
-      - couple1
-      - couple2
-      - couple3
-
   - Word: тот хлєб
     Translation: тај хлеб
     Images:
@@ -58,13 +51,6 @@ New words:
       - pasta2
       - pasta3
 
-  - Word: тота пара
-    Translation: тај пар
-    Images:
-      - couple1
-      - couple2
-      - couple3
-
 Phrases:
   - Phrase: Смачного
     Translation: Пријатно
@@ -81,8 +67,8 @@ Phrases:
   - Phrase: Цеца пиє води
     Translation: Цеца пије воду
 
-  - Phrase: Гевтот пар пиє пиво
-    Translation: Онај пар пије пиво
+  - Phrase: Вон пиє пиво
+    Translation: Он пије пиво
 
   - Phrase: Йован є хлєб
     Translation: Јован једе хлеб
@@ -115,10 +101,10 @@ Mini-dictionary:
       - вельо
       - барз
     - онај: гевтот
-    - пар: пар
     - једе: є
     - резанце: резанки
     - колико: як
+    - он: вон
     
   Rusyn:
     - модлїм: молим
@@ -147,8 +133,8 @@ Mini-dictionary:
     - цена: цена
     - кошта: кошта
     - гевтот: онај
-    - пар: пар
     - є: једе
     - єм: једем
     - резанки: резанце
     - як: колико
+    - вон: он

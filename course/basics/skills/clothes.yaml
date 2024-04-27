@@ -19,6 +19,10 @@ New words:
     Images:
       - t-shirt1
       - t-shirt2
+
+  - Word: маїци
+    Translation: мајице
+    Images:
       - t-shirt3
 
   - Word: калап
@@ -26,6 +30,10 @@ New words:
     Images:
       - hat1
       - hat2
+
+  - Word: калапи
+    Translation: шешири
+    Images:
       - hat3
 
   - Word: ципели
@@ -40,6 +48,10 @@ New words:
     Images:
       - shirt1
       - shirt2
+
+  - Word: кошулї
+    Translation: кошуље
+    Images:
       - shirt3
 
   - Word: шос
@@ -68,14 +80,12 @@ New words:
     Images:
       - t-shirt1
       - t-shirt2
-      - t-shirt3
 
   - Word: єден калап
     Translation: један шешир
     Images:
       - hat1
       - hat2
-      - hat3
 
   - Word: тоти ципели
     Translation: те ципеле
@@ -184,6 +194,9 @@ Mini-dictionary:
     - велика: велька
     - мала: мала
     - те: тоти
+    - мајице: маїци
+    - шешири: калапи
+    - кошуље: кошулї
 
   Rusyn:
     - красна: лепа
@@ -233,3 +246,6 @@ Mini-dictionary:
     - тоти: те
     - сом: сам
     - су: су
+    - маїци: мајице
+    - калапи: шешири
+    - кошулї: кошуље

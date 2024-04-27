@@ -40,13 +40,11 @@ New words:
     Images:
       - duck1
       - duck2
-      - duck3
 
   - Word: конь
     Translation: коњ
     Images:
       - horse1
-      - horse2
       - horse3
 
   - Word: тота мачка
@@ -75,14 +73,22 @@ New words:
     Images:
       - duck1
       - duck2
+
+  - Word: качки
+    Translation: патке
+    Images:
       - duck3
 
   - Word: єден конь
     Translation: један коњ
     Images:
       - horse1
-      - horse2
       - horse3
+
+  - Word: конї
+    Translation: коњи
+    Images:
+      - horse2
 
   - Word: тот пес
     Translation: тај пас
@@ -121,6 +127,8 @@ Mini-dictionary:
     - меркуй: пази
     - опасни: опасан
     - Макс: Макс
+    - конї: коњи
+    - качки: патке
 
   Serbian:
     - тај: тот
@@ -147,3 +155,5 @@ Mini-dictionary:
     - пази: меркуй
     - опасан: опасни
     - Макс: Макс
+    - коњи: конї
+    - патке: качки

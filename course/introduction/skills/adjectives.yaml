@@ -3,7 +3,7 @@ Skill:
   Id: 15
 
 New words:
-  - Word: миш
+  - Word: миша
     Translation: миш
     Images:
       - mouse1
@@ -24,7 +24,7 @@ New words:
       - park2
       - park3
 
-  - Word: тот миш
+  - Word: тота миша
     Translation: тај миш
     Images:
       - mouse1
@@ -44,6 +44,20 @@ New words:
       - park1
       - park2
       - park3
+
+  - Word: пара
+    Translation: пар
+    Images:
+      - couple1
+      - couple2
+      - couple3
+
+  - Word: тота пара
+    Translation: тај пар
+    Images:
+      - couple1
+      - couple2
+      - couple3
 
 Phrases:
   - Phrase: Цецилия висока
@@ -94,7 +108,7 @@ Phrases:
   - Phrase: Вельки су
     Translation: Велики су
 
-  - Phrase: Ми мали
+  - Phrase: Вони мали
     Translation: Они су мали
 
   - Phrase: Мали зме
@@ -112,19 +126,19 @@ Phrases:
   - Phrase: Марко нє нїзки
     Translation: Марко није низак
 
-  - Phrase: Гевтот пес мали и стари
+  - Phrase: Тот пес мали и стари
     Translation: Тај пас је мали и стар
 
-  - Phrase: Гевтот парк манди
+  - Phrase: Тот парк манди
     Translation: Тај парк је мали
 
   - Phrase: Тот парк вельки
     Translation: Овај парк је велик
 
-  - Phrase: Миш манди
+  - Phrase: Миша манда
     Translation: Миш је мали
 
-  - Phrase: Слон вельки, миш манди
+  - Phrase: Слон вельки, миша манда
     Translation: Слон је велик, миш је мали
 
   - Phrase: Слони вельки, миши манди
@@ -161,7 +175,7 @@ Mini-dictionary:
     - ниски: нїзки
     - слон: слон
     - слони: слони
-    - миш: миш
+    - миш: миша
     - мишеви: миши
     - рад: робота
     - ради: роби
@@ -176,6 +190,9 @@ Mini-dictionary:
     - раде: робя
     - старији: старши
     - Слонови: Слони
+    - пар: пара
+    - тај: тот
+    - та: тота
 
   Rusyn:
     - високи: висок
@@ -205,7 +222,7 @@ Mini-dictionary:
     - нїзки: ниски
     - слон: слон
     - слони: слони
-    - миш: миш
+    - миша: миш
     - миши: мишеви
     - робота:
       - рад
@@ -222,3 +239,6 @@ Mini-dictionary:
     - робя: раде
     - старши: старији
     - Слони: Слонови
+    - пара: пар
+    - тот: тај
+    - тота: та
