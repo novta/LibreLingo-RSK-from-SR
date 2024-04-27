@@ -112,13 +112,13 @@ Phrases:
     Translation: Они су мали
 
   - Phrase: Мали зме
-    Translation: Мали су
+    Translation: Мали смо
 
   - Phrase: Мачата манди
     Translation: Мачићи су мали
 
   - Phrase: Старши єдза месо
-    Translation: Стариији једу месо
+    Translation: Старији једу месо
 
   - Phrase: Месо єдза старши
     Translation: Месо једу старији
@@ -193,6 +193,7 @@ Mini-dictionary:
     - пар: пара
     - тај: тот
     - та: тота
+    - смо: зме
 
   Rusyn:
     - високи: висок
@@ -242,3 +243,4 @@ Mini-dictionary:
     - пара: пар
     - тот: тај
     - тота: та
+    - зме: смо
